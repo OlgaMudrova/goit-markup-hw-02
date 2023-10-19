@@ -177,26 +177,19 @@ background-color: #4d5ae5;
 }
 
 /*<!--PAGE FOOTER-->*/
-.footer-paragraf {
-    color: var(--light-color-cloud, #0d0d0e);
-    line-height: 1.5;
-    letter-spacing: 0.32px;
-}
-
 .footer-span {
     color: #2E2F42;
 }
 
 .footer-logo {
-    font-family: "Raleway", sans-serif;
-    font-size: 36px;
+    font-family: "Raleway" sans-serif;
+    font-size: 16px;
     font-style: normal;
     font-weight: 700;
-    line-height: 1.11;
-    text-align: center;
-    letter-spacing: 0.02px;
-    text-transform: capitalize;
-    color: #2E2F42;
+    line-height: 1.16667;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+    color: #404bbf;
 }
 
 .footer-paragraph {
@@ -205,5 +198,5 @@ background-color: #4d5ae5;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.5;
-    letter-spacing: 0.03em;
+    letter-spacing: 0.02em;
 }
