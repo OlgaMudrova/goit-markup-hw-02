@@ -77,7 +77,7 @@
 }
 
 /*<!--INGREDIENTS SECTION-->*/
-.ourteam-images-title {
+.workers-head {
     font-size: 20px;
     line-height: 1.11;
     text-align: center;
@@ -86,7 +86,7 @@
     color: #2E2F42;
 }
 
-.ourteam-main-title {
+.workers-names {
     background-color: #FFFFFF;
     font-weight: 500;
     font-size: 20px;
@@ -95,7 +95,7 @@
     color: #2E2F42;
 }
 
-.ourteam-text {
+.workers-positions {
     line-height: 1.5;
 }
 
@@ -149,6 +149,13 @@
 }
 
 .footer-paragraf {
-    background-color: #29293f;
-    color: #FFFFFF; 
+    background-color: #2e2f42;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
 }
+
+
+
