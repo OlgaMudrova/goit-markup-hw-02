@@ -17,7 +17,7 @@ background-color: #4d5ae5;
     cursor: pointer;
 }
 
-.body {
+body {
     font-family: "Roboto" sans-serif; 
     background-color: #FFFFFF;
     color: #434455;
@@ -68,6 +68,15 @@ background-color: #4d5ae5;
 }
 
 /*<!--OUR BENEFITS-->*/
+
+.main-works {
+    font-size: 20px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2E2F42; 
+}
 .main-head {
     font-family: Roboto;
     font-size: 56px;
