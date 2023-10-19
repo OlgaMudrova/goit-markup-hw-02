@@ -51,10 +51,10 @@ body {
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    color: #F4F4FD;
-background-color: #4d5ae5;
+    line-height: 1.5px;
+    letter-spacing: 0.02em;
+    color: #404bbf;
+background-color: #404bbf;
     cursor: pointer;
 }
 
