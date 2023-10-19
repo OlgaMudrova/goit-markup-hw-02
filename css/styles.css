@@ -2,31 +2,49 @@
     list-style-type: none;
 }
 
-.link {
+.nav-link {
     text-decoration: none;
 }
 
 .button {
+    font-family: "Roboto" sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #F4F4FD;
+background-color: #4d5ae5;
     cursor: pointer;
 }
 
 .body {
-    font-family: "Roboto" sans-serif color background-color
+    font-family: "Roboto" sans-serif; 
+    background-color: #FFFFFF;
+    color: #434455;
+
 }
 /*<!--PAGE HEADER-->*/
+.list {
+    list-style-type: none;
+}
+
+.nav-link {
+    text-decoration: none;
+}
+
 .logotype-span {
     color: #2E2F42;
 }
 
 .logotype {
-    font-family: 'Raleway' sans-serif;
-    font-size: 18px;
+    font-family: "Raleway" sans-serif;
+    font-size: 16px;
     font-style: normal;
-    font-weight: 700;
-    line-height: 21px;
-    letter-spacing: 0.04px;
+    font-weight: 500;
+    line-height: 1.5px;
+    letter-spacing: 0.02px;
     text-transform: uppercase;
-    color: #4D5AE5;
+    color: #404bbf;
 }
 
 .address {
@@ -72,7 +90,7 @@
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.03em;
     color: #434455;
 }
 
@@ -95,8 +113,14 @@
     color: #2E2F42;
 }
 
+.workers-person {
+    background-color: #F4F4FD;
+    
+}
+
 .workers-positions {
     line-height: 1.5;
+    text-align: center;
 }
 
 .portfolio {
@@ -116,13 +140,16 @@
     background-color: #FFFFFF;
     font-weight: 500;
     font-size: 20px;
-    line-height: 1.2;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
 
 .portfolio-text {
-    line-height: 1.5;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5; 
+    letter-spacing: 0.02em;
     
 }
 
@@ -138,14 +165,15 @@
 }
 
 .footer-logo {
-    font-family: 'Raleway' sans-serif;
-    font-size: 18px;
+    font-family: "Raleway" sans-serif;
+    font-size: 36px;
     font-style: normal;
     font-weight: 700;
-    line-height: 21px;
-    letter-spacing: 0.04px;
-    text-transform: uppercase;
-    color: #4D5AE5;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02px;
+    text-transform: capitalize;
+    color: #2E2F42;
 }
 
 .footer-paragraf {
@@ -153,9 +181,6 @@
     color: #FFFFFF;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.17;
+    line-height: 1.5;
     letter-spacing: 0.03em;
 }
-
-
-
