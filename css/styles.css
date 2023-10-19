@@ -27,14 +27,14 @@ body {
 }
 
 .logotype {
-    font-family: "Raleway" sans-serif;
-    font-size: 16px;
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
     font-style: normal;
     font-weight: 700;
-    line-height: 1.16667;
-    letter-spacing: 0.54px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #404bbf;
+    color: #4d5ae5;
 }
 
 
