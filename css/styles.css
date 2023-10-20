@@ -1,8 +1,8 @@
-.list {
+ul {
     list-style-type: none;
 }
 
-.nav-link {
+a {
     text-decoration: none;
 }
 
@@ -37,12 +37,34 @@ body {
     color: #4d5ae5;
 }
 
+.menu-link {
+   color: var(--NAVY-BLUE, #2e2f42);
+   font-size: 16px;
+   font-weight: 500;
+   line-height: 1.5;
+   letter-spacing: 0.32px; 
+}
+.mtnu-link:hover,
+.menu-link:focus {
+    color: #404bbf;
 
+}
 .address {
     font-style: normal;
+}
+
+.menu-contakt-link {
+    color: var(--SLATE, #434455)
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.32px; 
 
 }
 
+.page-contacts :focus {
+    background-color: #f3f4f8;
+
+}
 .main-head {
     text-align: center;
 }
@@ -58,10 +80,6 @@ body {
     cursor: pointer;
 }
 
-.page-contacts :focus {
-    background-color: #f3f4f8;
-
-}
 
 .contakt-link-link,
 .contakt-link {
