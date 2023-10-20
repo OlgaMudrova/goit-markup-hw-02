@@ -63,6 +63,19 @@ body {
 
 }
 
+.contakt-link-link,
+.contakt-link {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+    background-color: #404bbf;
+    cursor: pointer;
+}
+
+
 /*<!-- HERO SECTION-->*/
 
 .main-head {
@@ -73,7 +86,7 @@ body {
   
 .main-head:hover,
 .main-action:focus {
-    background-color: #4d5ae5;
+    color: #404bbf;
 }
 
 /*<!--OUR BENEFITS-->*/
