@@ -49,7 +49,7 @@ body {
     font-family: Roboto;
     font-size: 16px;
     font-weight: 500;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: left;
     color: #2E2F42;
@@ -69,7 +69,8 @@ body {
 
 .mtnu-link:hover,
 .menu-link:focus {
-    color: #404bbf;
+    color: #4D5AE5;
+
 
 }
 
@@ -102,16 +103,6 @@ background: #FFFFFF;
 
 }
 
-.button {
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 1.5px;
-    letter-spacing: 0.04em;
-    color: #404bbf;
-        cursor: pointer;
-}
-
-
 .contakt-link-link,
 .contakt-link {
     font-size: 16px;
@@ -132,13 +123,34 @@ background: #FFFFFF;
 
 .main-head {
     background-color: #2e2f42;
-    letter-spacing: 0.02em;
-    color: #FFFFFF;
+    font-family: Roboto;
+font-size: 56px;
+font-weight: 700;
+line-height: 1.07;
+letter-spacing: 0.02em;
+text-align: center;
+color: #FFFFFF;
+
   }
   
 .main-head:hover,
 .main-action:focus {
-    color: #404bbf;
+   
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5px;
+    letter-spacing: 0.04em;
+    color: #4D5AE5;
+}
+
+.button {
+    background-color: #4D5AE5;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5px;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    cursor: pointer;
 }
 
 /*<!--OUR BENEFITS-->*/
