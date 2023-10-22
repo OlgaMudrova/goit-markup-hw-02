@@ -108,15 +108,7 @@ color: #FFFFFF;
   
   
   .main-action:focus {
-    width: Hug (169px);
-    height: Hug (56px);
-    top: 428px;
-    left: 636px;
-    padding: 16px, 32px, 16px, 32px;
-    border-radius: 4px;
-    gap: 10px;
-    
-      font-size: 16px;
+    font-size: 16px;
       font-weight: 500;
       line-height: 1.5px;
       letter-spacing: 0.04em;
@@ -124,7 +116,7 @@ color: #FFFFFF;
       cursor: pointer;
   }
 
-  /*<!--OUR BENEFITS-->*/
+  /*<!--OUR BENEFITS 2-->*/
 
 .made-menu-item {
     background-color: #FFFFFF;  
