@@ -93,6 +93,7 @@ body {
     background-color: #2e2f42;
 }
 
+
 .main-head {
     background-color: #2e2f42;
     font-family: Roboto;
@@ -107,7 +108,14 @@ color: #FFFFFF;
   
   
   .main-action:focus {
-      background-color: #4D5AE5;
+    width: Hug (169px);
+    height: Hug (56px);
+    top: 428px;
+    left: 636px;
+    padding: 16px, 32px, 16px, 32px;
+    border-radius: 4px;
+    gap: 10px;
+    
       font-size: 16px;
       font-weight: 500;
       line-height: 1.5px;
@@ -116,9 +124,7 @@ color: #FFFFFF;
       cursor: pointer;
   }
 
-
-
-/*<!--OUR BENEFITS-->*/
+  /*<!--OUR BENEFITS-->*/
 
 .made-menu-item {
     background-color: #FFFFFF;  
