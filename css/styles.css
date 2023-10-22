@@ -105,26 +105,18 @@ color: #FFFFFF;
 
   }
   
-.main-head:hover,
-.main-action:focus {
-    background-color: #4D5AE5;
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 1.5px;
-    letter-spacing: 0.04em;
-    color: #FFFFFF;
-    cursor: pointer;
-}
+  
+  .main-action:focus {
+      background-color: #4D5AE5;
+      font-size: 16px;
+      font-weight: 500;
+      line-height: 1.5px;
+      letter-spacing: 0.04em;
+      
+      cursor: pointer;
+  }
 
-.button {
-    background-color: #4D5AE5;
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 1.5px;
-    letter-spacing: 0.04em;
-    color: #FFFFFF;
-    cursor: pointer;
-}
+
 
 /*<!--OUR BENEFITS-->*/
 
@@ -155,6 +147,7 @@ color: #FFFFFF;
 .workers-background {
     background-color: #F4F4FD;  
 }
+
 
 
 .workers-head {
