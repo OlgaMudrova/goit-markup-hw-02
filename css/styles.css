@@ -108,8 +108,7 @@ background: #FFFFFF;
     line-height: 1.5px;
     letter-spacing: 0.04em;
     color: #404bbf;
-    background-color: #404bbf;
-    cursor: pointer;
+        cursor: pointer;
 }
 
 
@@ -127,6 +126,10 @@ background: #FFFFFF;
 
 
 /*<!-- HERO SECTION-->*/
+
+.section {
+    background-color: #2e2f42;
+}
 
 .main-head {
     background-color: #2e2f42;
@@ -237,6 +240,9 @@ color: #2E2F42;
 }
 
 /*<!--PAGE FOOTER-->*/
+.footer-block {
+    background-color: #2e2f42;
+}
 .footer-span {
    color:  #4d5ae5;
 }
