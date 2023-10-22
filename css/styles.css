@@ -147,7 +147,9 @@ color: #FFFFFF;
 }
 
 
-
+.workers-person {
+    background-color: #F4F4FD;     
+}
 .workers-head {
     background-color: #FFFFFF;
 font-size: 36px;
@@ -160,7 +162,7 @@ color: #2E2F42;
 }
 
 .workers-names {
-    background-color: #FFFFFF;
+    
 font-family: Roboto;
 font-size: 20px;
 font-weight: 500;
@@ -172,7 +174,7 @@ color: #2E2F42;
 }
 
 .workers-positions {
-    background-color: #FFFFFF;
+    
     font-family: Roboto;
 font-size: 16px;
 font-weight: 400;
