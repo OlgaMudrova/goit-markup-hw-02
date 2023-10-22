@@ -156,7 +156,9 @@ text-align: center;
 text-transform: capitalize;
 color: #2E2F42;
 }
-
+.workers-person {
+    background-color: #FFFFFF
+}
 .workers-names {
     background-color: #FFFFFF;
 font-size: 20px;
