@@ -55,9 +55,12 @@ body {
 
 .menu-contakt-link {
     color: #434455;
+    font-weight: 400;
     font-size: 16px;
     line-height: 24px;
-    letter-spacing: 0.32px; 
+    letter-spacing: 0.32px;
+    color: #434455;
+    ; 
 
 }
 
@@ -66,7 +69,15 @@ body {
 
 }
 .main-head {
-    text-align: center;
+    font-family: Roboto;
+font-size: 56px;
+font-weight: 700;
+line-height: 1;
+letter-spacing: 0.02em;
+text-align: center;
+background: #FFFFFF;
+
+
 }
 
 .button {
@@ -150,22 +161,27 @@ body {
 
 /*<!--INGREDIENTS SECTION-->*/
 .workers-head {
-    font-size: 20px;
-    line-height: 1.11;
-    text-align: center;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;
-    color: #2E2F42;
+    font-family: Roboto;
+font-size: 36px;
+font-weight: 700;
+line-height: 1.1;
+letter-spacing: 0.02em;
+text-align: center;
+text-transform: capitalize;
+color: #2E2F42;
+;
+
 }
 
 .workers-names {
     background-color: #FFFFFF;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    text-align: center;
-    color: #2E2F42;
+font-family: Roboto;
+font-size: 20px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0.01em;
+text-align: center;
+color: #2E2F42;
 }
 
 .workers-person {
@@ -174,6 +190,7 @@ body {
 }
 
 .workers-positions {
+    background-color: #FFFFFF;
     line-height: 1.5;
     text-align: center;
 }
@@ -187,7 +204,7 @@ body {
     font-family: Roboto;
     font-size: 36px;
     font-weight: 700;
-    line-height: 1.11;
+    line-height: 1.1;
     letter-spacing: 0.02em;
     text-align: center;
     text-transform: capitalize;
@@ -196,12 +213,13 @@ body {
 }
 
 .portfolio-main-title {
-    background-color: #FFFFFF;
+   
     font-family: Roboto;
 font-size: 20px;
 font-weight: 500;
 line-height: 1.2;
 letter-spacing: 0.02em;
+color: #2E2F42;
 
 }
 
