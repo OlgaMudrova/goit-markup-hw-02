@@ -108,16 +108,20 @@ color: #FFFFFF;
   
   .main-action:hover,
   .main-action:focus {
-    font-family: "Roboto", sans-serif ;
-    font-size: 16px;
-      font-weight: 500;
-      line-height: 1.5px;
-      letter-spacing: 0.04em;
-      cursor: pointer;
-      color: #FFFFFF;
-      background-color: #404BBF;
-  }
+    background-color: #404BBF;
+        }
 
+        .button {
+            font-family: "Roboto", sans-serif ;
+            font-size: 16px;
+              font-weight: 500;
+              line-height: 1.5px;
+              letter-spacing: 0.04em;
+              cursor: pointer;
+              color: #FFFFFF;
+              background-color: #4D5AE5
+                }   
+        
   /*<!--OUR BENEFITS 2-->*/
 
 .made-menu-item {
