@@ -60,11 +60,17 @@ body {
     font-family: Roboto;
     font-size: 16px;
     font-weight: 500;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: left;
     color: #2E2F42;
     
+}
+.menu-link link link:hover {
+    color: #404bbf; 
+}
+.menu-link link link:focus {
+    color: #404bbf; 
 }
 .menu-contakt,
 .menu-contakt-link {
@@ -75,16 +81,14 @@ body {
     color: #434455;
 
   }
-  .menu-contakt:hover,
-  .menu-contakt-link:focus {
+  .menu-contakt:hover   {
      color: #404bbf;
   
     }
-
-.page-contacts :focus {
-    background-color: #f3f4f8;
-
-}
+    .menu-contakt-link:hover {
+        color: #404bbf;
+     
+       }
 .address {
     font-style: normal;
 
