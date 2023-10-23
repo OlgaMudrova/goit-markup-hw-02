@@ -66,26 +66,23 @@ body {
     color: #2E2F42;
     
 }
-.menu-link link link:hover {
-    color: #404bbf; 
-}
-.menu-link link link:focus {
-    color: #404bbf; 
-}
 .menu-contakt,
 .menu-contakt-link {
    font-weight: 400;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.32px;
     color: #434455;
 
   }
-  .menu-contakt:hover   {
+
+  .menu-contakt:hover,
+  .menu-contakt-link:hover   {
      color: #404bbf;
   
     }
-    .menu-contakt-link:hover {
+    .menu-contakt:focus,
+    .menu-contakt-link:focus {
         color: #404bbf;
      
        }
@@ -111,21 +108,20 @@ color: #FFFFFF;
 
   }
   
-  .main-action:hover,
-  .main-action:focus {
-    background-color: #404BBF;
-        }
-
-        .button {
+          .button {
             font-family: "Roboto", sans-serif ;
             font-size: 16px;
               font-weight: 500;
               line-height: 1.5px;
               letter-spacing: 0.04em;
-              cursor: pointer;
               color: #FFFFFF;
-              background-color: #4D5AE5
-                }   
+              background-color: #4D5AE5;
+              cursor: pointer;
+                }
+  .main-action:hover,
+  .main-action:focus {
+    background-color: #404BBF;
+        }   
         
   /*<!--OUR BENEFITS 2-->*/
 
