@@ -65,7 +65,11 @@ body {
     text-align: left;
     color: #2E2F42;
 
-.menu-link:hover
+.menu-link:hover {
+    color: #404bbf;
+  
+}
+
 .menu-link:focus  {
        color: #404bbf;
      
@@ -81,12 +85,16 @@ body {
 
 }
 
-.menu-contakt:hover,
-.menu-contakt:focus {
+.menu-contakt:hover
+ {
     background-color: #404BBF;
   
 }
+.menu-contakt:focus {
+    background-color: #404BBF;
   
+}  
+
 .address {
     font-style: normal;
 
