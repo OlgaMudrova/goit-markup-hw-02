@@ -43,7 +43,7 @@ body {
    line-height: 1.5;
    letter-spacing: 0.32px;
    color: #2E2F42;
-   }
+}
 
 .menu-link link {
     font-family: Roboto;
@@ -68,60 +68,56 @@ body {
 }
 .menu-contakt,
 .menu-contakt-link {
-   font-weight: 400;
+    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.32px;
     color: #434455;
 
-  }
+}
 
-  .menu-contakt:hover,
-  .menu-contakt-link:hover   {
-     color: #404bbf;
+.menu-contakt:hover,
+.menu-contakt:focus {
+    color: #404bbf;
   
-    }
-    .menu-contakt:focus,
-    .menu-contakt-link:focus {
-        color: #404bbf;
-     
-       }
+}
+  
 .address {
     font-style: normal;
 
 } 
 
-/*<!-- HERO SECTION-->*/
+/*<!-- HERO SECTION 1-->*/
 
 .section {
     background-color: #2e2f42;
 }
 
-
 .main-head {
     font-size: 56px;
-font-weight: 700;
-line-height: 1.07;
-letter-spacing: 0.02em;
-text-align: center;
-color: #FFFFFF;
+    font-weight: 700;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #FFFFFF;
 
-  }
+}
   
-          .button {
-            font-family: "Roboto", sans-serif ;
-            font-size: 16px;
-              font-weight: 500;
-              line-height: 1.5px;
-              letter-spacing: 0.04em;
-              color: #FFFFFF;
-              background-color: #4D5AE5;
-              cursor: pointer;
-                }
-  .main-action:hover,
-  .main-action:focus {
+.button-action {
+    font-family: "Roboto", sans-serif ;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    background-color: #4D5AE5;
+    cursor: pointer;
+}
+
+.button-action:hover,
+.button-actionn:focus {
     background-color: #404BBF;
-        }   
+}   
         
   /*<!--OUR BENEFITS 2-->*/
 
@@ -149,6 +145,7 @@ color: #FFFFFF;
 }
 
 /*<!--INGREDIENTS SECTION 3-->*/
+
 .workers-background {
     background-color: #F4F4FD;
     }
@@ -156,35 +153,37 @@ color: #FFFFFF;
 .workers-head {
     background-color: #F4F4FD;
     font-size: 36px;
-font-weight: 700;
-line-height: 1.11;
-letter-spacing: 0.02em;
-text-align: center;
-text-transform: capitalize;
-color: #2E2F42;
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
+    color: #2E2F42;
 }
 .workers-person {
     background-color: #FFFFFF
 }
 .workers-names {
     background-color: #FFFFFF;
-font-size: 20px;
-font-weight: 500;
-line-height: 1.2;
-letter-spacing: 0.02em;
-text-align: center;
-text-transform: capitalize;
-color: #2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
+    color: #2E2F42;
+
 }
 
 .workers-positions {
     background-color: #FFFFFF;
     font-size: 16px;
-font-weight: 400;
-line-height: 1.5;
-letter-spacing: 0.02em;
-text-align: center;
-color: #434455;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #434455;
+
 }
 
 
@@ -207,19 +206,18 @@ color: #434455;
 
 .portfolio-main-title {
     font-size: 20px;
-font-weight: 500;
-line-height: 1.2;
-letter-spacing: 0.02em;
-color: #2E2F42;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
 
 }
 
 .portfolio-text {
-        font-size: 16px;
+    font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    
     color: #434455;
     
 }
@@ -227,14 +225,16 @@ color: #2E2F42;
 /*<!--PAGE FOOTER-->*/
 .footer-block {
     background-color: #2e2f42;
+
 }
 .footer-span {
-   color:  #4d5ae5;
+    color:  #4d5ae5;
+
 }
 
 .footer-logo {
     font-family: "Raleway", sans-serif;
-   font-size: 18px;
+    font-size: 18px;
     font-weight: 700;
     line-height: 1.17;
     letter-spacing: 0.03em;
@@ -246,23 +246,25 @@ color: #2E2F42;
 
 .footer-span {
     font-size: 18px;
-font-weight: 700;
-line-height: 1.1;
-letter-spacing: 0.03em;
-text-align: left;
-color: #F4F4FD;
-text-transform: uppercase;
-background-color: #2e2f42;
+    font-weight: 700;
+    line-height: 1.1;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: #F4F4FD;
+    text-transform: uppercase;
+    background-color: #2e2f42;
+
 }
 
 .footer-paragraph {
-font-size: 16px;
-font-weight: 400;
-line-height: 1.5;
-letter-spacing: 0.02em;
-text-align: left;
-background-color: #2e2f42;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: left;
+    background-color: #2e2f42;
     color: #F4F4FD;
+
 }
 
 
